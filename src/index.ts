@@ -41,10 +41,10 @@ async function main() {
     name: "choosen",
     message: "Please select Desire Operation: ",
     type: "list",
-    choices: ["See Todo List", "Add Todo", "Delete Todo"],
+    choices: ["Open Todo List", "Add Todo", "Delete Todo"],
   });
   //Printing Todo List
-  if (differentChoices.choosen === "See Todo List") {
+  if (differentChoices.choosen === "Open Todo List") {
     console.log(myTodoList);
     // Deleting an Object from ToDo List
   } else if (differentChoices.choosen === "Delete Todo") {
