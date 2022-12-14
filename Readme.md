@@ -3,7 +3,7 @@
 
 _There are Two ways to run this Application._
 
-**First:** type "npx mk-todoList" in command Line (Windows) or Terminal (Mac or Linux), if node is installed, then it will prompt you to install required libraries, install them and you are good to go.
+**First:** type "npx mk-todolist" in command Line (Windows) or Terminal (Mac or Linux), if node is installed, then it will prompt you to install required libraries, install them and you are good to go.
 
 **Second:** To run this application, clone this repo. and then type in command line or terminal "npm install" in terminal in vscode all required libraries will be downloaded automatically. Voilla, run the application and enjoy!
 
