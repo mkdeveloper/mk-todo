@@ -1,11 +1,11 @@
 {
-  "name": "mk-todoList",
+  "name": "mk-todolist",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "type": "module",
   "bin":{
-    "mk-todoList": "./dist/index.js"
+    "mk-todolist": "./dist/index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
