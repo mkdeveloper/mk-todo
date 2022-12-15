@@ -17,11 +17,11 @@ function printTodo(
 
 **************************************************************
 
- Id :          ${Id}
+ Id:           ${Id}
 
- Todo :        ${Title}
+ Todo:         ${Title}
 
- Discription : ${Discription}
+ Discription:  ${Discription}
 
  Date:         ${Date}
 
