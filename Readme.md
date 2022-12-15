@@ -28,4 +28,4 @@ Enter Todo list Id number, and press enter, it will be deleted from ToDo List.
 
 **Select _Marked Todo As Completed_**
 
-Enter Todo list Id number, and press enter, status will change from "Pending" to completed.
+Enter Todo list Id number, and press enter, status will change from "Pending" to "Completed".
