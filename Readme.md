@@ -23,3 +23,9 @@ Enter title, press enter than enter discription but discription is optional, If 
 
 **Select "_Delete Todo_"**
 Enter Todo list Id number, and press enter, it will be deleted from ToDo List.
+
+**Updating Todo List**
+
+**Select _Marked Todo As Completed_**
+
+Enter Todo list Id number, and press enter, status will change from "Pending" to completed.
