@@ -16,14 +16,14 @@ let myTodoList = [
         Id: 1,
         Title: "Meeting With VC",
         Discription: "Location: Peshawar University at 5:00 PM",
-        Date: "string",
+        Date: "30 Dec 2022",
         Status: "Pending",
     },
     {
         Id: 2,
         Title: "Arranging Seminar",
         Discription: "Checking Preparation for Seminar",
-        Date: "string",
+        Date: "15 Jan 2023",
         Status: "Pending",
     },
 ];
