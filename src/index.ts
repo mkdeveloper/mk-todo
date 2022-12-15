@@ -31,14 +31,14 @@ let myTodoList: {
     Title: "Meeting With VC",
     Discription: "Location: Peshawar University at 5:00 PM",
     Date: "string",
-    Status: "Incomplete",
+    Status: "Pending",
   },
   {
     Id: 2,
     Title: "Arranging Seminar",
     Discription: "Checking Preparation for Seminar",
     Date: "string",
-    Status: "Incomplete",
+    Status: "Pending",
   },
 ];
 
